@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPILVcXAJCMS/AquzBPrzUolEPy01X62B6IERZjg00iU6rskw2Yi0jgQxibDdQY6xlPj42sbDodLDK5pSz6CmQ==",
+  "success": false,
+  "projectFilePath": "D:\\MRJCUSTOMS\\API\\API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
